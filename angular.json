@@ -107,5 +107,7 @@
       }
     }
   },
-  "defaultProject": "scully-blog"
+  "cli": {
+    "analytics": false
+  }
 }
