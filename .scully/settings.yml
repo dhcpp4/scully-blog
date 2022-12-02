@@ -1,0 +1,11 @@
+identifier: l7b254capc46tf8f
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: scully-blog
+homeFolder: /home/default/WebstormProjects/scully-blog
+distFolder: dist/scully-blog
+outDir: /home/default/WebstormProjects/scully-blog/dist/static
+handle404: ''
+allowErrorCollect: true
